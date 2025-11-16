@@ -1,0 +1,30 @@
+{
+  "totalCommands": 1,
+  "commands": {
+    ".test": {
+      "count": 1,
+      "users": [
+        "123@s.whatsapp.net"
+      ],
+      "lastUsed": "2025-11-16T00:21:40.138Z"
+    }
+  },
+  "dailyStats": {
+    "2025-11-16": {
+      "date": "2025-11-16",
+      "totalCommands": 1,
+      "uniqueUsers": [
+        "123@s.whatsapp.net"
+      ],
+      "commands": {
+        ".test": 1
+      }
+    }
+  },
+  "topCommands": [
+    {
+      "name": ".test",
+      "count": 1
+    }
+  ]
+}

@@ -187,7 +187,6 @@ This project is licensed under the **MIT License**.
 
 - **Developer**: [Eliahhango](https://github.com/Eliahhango)
 - **Baileys**: [@adiwajshing](https://github.com/adiwajshing/Baileys)
-- **Pair Code**: TechGod143 & DGXEON
 
 ---
 
@@ -200,3 +199,4 @@ This project is licensed under the **MIT License**.
 [⬆ Back to Top](#-elitechwiz-bot)
 
 </div>
+# EliTechWiz-GENZ
